@@ -5,7 +5,7 @@
 
 <p>
   Version : 1.0.0 <br>
-  Link: <a href="http://amitofile.com/leaf">http://amitofile.com/leaf</a><br><br>
+  Link: <a target="_blank" href="http://amitofile.com/leaf">http://amitofile.com/leaf</a><br><br>
 </p>
 
 <p>
@@ -14,6 +14,6 @@
 </p>
 
 <p>
-  For details and documentation <a href="http://amitofile.com/leaf/docs">click here.</a>
+  For details and documentation <a target="_blank" href="http://amitofile.com/leaf/docs">click here.</a>
 </p>
 
